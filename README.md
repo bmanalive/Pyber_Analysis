@@ -11,7 +11,7 @@ PyBer, a ridesharing app company, has requested the following:
  
 ## Results (Differences in Ride-sharing Data Among the Different City Types)
 
-### Summary PyBer Data by City Type
+#### Summary PyBer Data by City Type
 ![Pyber_summery_DataFrame](analysis/PyBer_summary_analysis.png)
 
 ### Differences in Total Rides
@@ -35,11 +35,11 @@ PyBer, a ridesharing app company, has requested the following:
 * Suburban cities had the second highest total fare dollars.
 * Rural cities had the least total fare dollars.
 
-### PyBer Fare Summary by City Type (Jan. 1, 2019 to April 28, 2019)
+#### PyBer Fare Summary by City Type (Jan. 1, 2019 to April 28, 2019)
 #### (Note: 2nd image shows greater date detail)
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)   ![PyBer_fare_summary_ObjOr.](analysis/PyBer_fare_summary_object_oriented.png)
 
-### Data Behind the Two Graphs Above
+#### Data Behind the Two Graphs Above
 ![PyBer_graph_data](analysis/PyBer_graph_data.png)
 
 
