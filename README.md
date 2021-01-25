@@ -38,12 +38,15 @@ PyBer, a ridesharing app company, has requested the following:
 ### PyBer Fare Summary by City Type (Jan. 1, 2019 to April 28, 2019) ***Note: 2nd image shows greater date detail***
 ![PyBer_fare_summary](analysis/PyBer_fare_summary.png)   ![PyBer_fare_summary_ObjOr.](analysis/PyBer_fare_summary_object_oriented.png)
 
+### Data Behind the Two Graphs Above
 ![PyBer_graph_data](analysis/PyBer_graph_data.png)
 
-### Greater Detail of PyBer Fare Summary by City Type (Jan. 1, 2019 to April 28, 2019)
 
 
-## Election-Audit Summary: 
-This script could be modified to pull and display any number of regional data points such as state and city, allowing analysis at those levels as well.  This could easily be run by adding a City and State column to the .csv file and reading data in the same way as county information.
-By modifying the dictionaries within the code, the election commision could view percentage of the county vote and county vote total per candidate. 
+## Summary: 
+Three business recommendations to the CEO for addressing any disparities among the city types:
+1. Focus on increasing rides in suburban and rural cities.  You may consider reducing the fares in these cities to attract more riders
+2. Focus on increasing the number of drivers to facilitate additional riders.
+3. Consider marketing during winter months in rural areas where road closers due to snow and ice may be more common.
+4. Consider marketing special ride deals to/from suburan and urban cities for work commutes and weekend events to eliminate parking issues and prevent drunk driving.
 
