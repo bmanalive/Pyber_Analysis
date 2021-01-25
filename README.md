@@ -11,16 +11,24 @@ PyBer, a ridesharing app company, has requested the following:
  
 ## Results (Differences in Ride-sharing Data Among the Different City Types)
 
-
+### Summary PyBer Data by City Type
 ![Pyber_summery_DataFrame](analysis/PyBer_summary_analysis.png)
 
-### Differences in Total rides
+Urban cities had the highest number of rides (1625).
+Per the summary chart above, the total rides decreased from Urban to Suburban by 1000 rides, and by 1500 comparing Urban to Rural.
 
 ### Differences in total drivers
 
-### Differences in total fares
+Urban cities had the highest number of drivers (2405).
+The number of drivers decreased significantly as you went from Suburban down to Rural cities.
+
+### Differences in total fares (See 
+Urban cities had the largest amount of total fares ($39,854.38)
+As would be expected, the total fares decreased as well from Urban to Suburban to Rural
 
 ### Differences in average fare per ride and driver
+Urban cities had the lowest Average fare both per Ride ($24.53) and per Driver ($16.57).
+
 
 ### Differences in total fare by city type.
 
