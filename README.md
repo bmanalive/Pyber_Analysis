@@ -12,7 +12,7 @@ PyBer, a ridesharing app company, has requested the following:
 ## Results (Differences in Ride-sharing Data Among the Different City Types)
 
 
-![Pyber_summery_DataFrame]('analysis/PyBer_summary_analysis')
+![Pyber_summery_DataFrame](analysis/PyBer_summary_analysis.png)
 
 ### Differences in Total rides
 
